@@ -1,0 +1,1 @@
+# RedmineGit_external_q2
